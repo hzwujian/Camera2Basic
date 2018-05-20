@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoCamera2</string>
+    <string name="need_permissions">该App需要打开摄像头拍照，并保存到设备上</string>
+</resources>
